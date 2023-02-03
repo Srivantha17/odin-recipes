@@ -1,0 +1,29 @@
+.topic-index{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+}
+
+.logo-pic{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul.links{
+    color: rgb(53, 192, 53);
+    display: inline-block;
+    text-align: left;
+}
+div.link1{
+
+    color: rgb(13, 14, 13);
+    text-align: center;
+    background-color: aqua;
+    
+    
+}
+body{
+    background-color: coral;
+}
